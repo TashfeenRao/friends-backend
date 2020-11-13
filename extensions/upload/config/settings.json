@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "dshspfli3",
+    "api_key": "214633185611191",
+    "api_secret": "AByGPxYGSxDXFhF0oLJxzyWhFRc"
+  }
+}
